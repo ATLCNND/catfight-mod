@@ -1,0 +1,11 @@
+{
+  "cat.cat_argue1": {"sounds":[{"name":"catfight:cat/cat_argue1","stream":false}]},
+  "cat.cat_argue2": {"sounds":[{"name":"catfight:cat/cat_argue2","stream":false}]},
+  "cat.cat_argue3": {"sounds":[{"name":"catfight:cat/cat_argue3","stream":false}]},
+  "cat.cat_argue4": {"sounds":[{"name":"catfight:cat/cat_argue4","stream":false}]},
+  "cat.cat_argue5": {"sounds":[{"name":"catfight:cat/cat_argue5","stream":false}]},
+  "cat.cat_argue6": {"sounds":[{"name":"catfight:cat/cat_argue6","stream":false}]},
+  "cat.cat_argue7": {"sounds":[{"name":"catfight:cat/cat_argue7","stream":false}]},
+  "cat.cat_argue8": {"sounds":[{"name":"catfight:cat/cat_argue8","stream":false}]},
+  "cat.cat_argue9": {"sounds":[{"name":"catfight:cat/cat_argue9","stream":false}]}
+}
