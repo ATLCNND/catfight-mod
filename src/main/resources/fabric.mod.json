@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "catfight",
+  "version": "${version}",
+  "name": "老吴",
+  "description": "Cats quarrel, training stick to suppress fighting",
+  "authors": ["ATLCNND"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/catfight/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.catfight.CatFightMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabric-api": ">=0.92.1+1.20.1",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
